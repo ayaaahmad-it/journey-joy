@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## 🎥 Project Demo
 
-[▶️ Watch Journey Joy Demo]((https://drive.google.com/file/d/1K_aIQ4YD9Gv_vr2xqiVem2GxxB5czHvM/view?usp=sharing))
+[Project Demo](https://drive.google.com/file/d/1K_aIQ4YD9Gv_vr2xqiVem2GxxB5czHvM/view?usp=sharing)
